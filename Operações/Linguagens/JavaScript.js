@@ -39,3 +39,10 @@ console.log(a >= b)
 
 //Menor que
 console.log(a <= b)
+
+
+//Imprimindo os valores lá no HMTL
+somac = document.getElementById("soma")
+//document.getElementById("sub").textContent = document.getElementById("txt").innerHTML
+//document.getElementById("mult").textContent = document.getElementById("txt").innerHTML
+//document.getElementById("divi").textContent = document.getElementById("txt").innerHTML
