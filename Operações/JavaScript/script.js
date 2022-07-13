@@ -1,6 +1,6 @@
 //Criação de Variáveis
-a = 3
-b = 2 
+var a = 3
+var b = 2 
 
 
 /*
@@ -10,7 +10,8 @@ b = 2
 
 
 //Adição
-console.log(a + b)
+var somac = a + b
+console.log(somac)
 
 //Subtração
 console.log(a - b)
@@ -42,9 +43,15 @@ console.log(a >= b)
 //Menor que
 console.log(a <= b)
 
+//Comparar as duas condições: "e"
+console.log(a && b)
+
+//Comparar as duas condições: "ou"
+console.log(a || b)
+
 
 //Imprimindo os valores lá no HMTL
-somac = document.getElementById("soma")
+document.getElementById("soma").innerHTML = somac
 //document.getElementById("sub").textContent = document.getElementById("txt").innerHTML
 //document.getElementById("mult").textContent = document.getElementById("txt").innerHTML
 //document.getElementById("divi").textContent = document.getElementById("txt").innerHTML
