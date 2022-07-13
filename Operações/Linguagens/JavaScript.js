@@ -28,6 +28,8 @@ console.log(a % b)
 console.log(a ** b)
 
 
+//Você irá perceber que ao compilar, estará false/true, o programa está informando o resultado dessas análises que estão sendo pedidas
+
 //Igual que
 console.log(a == b)
 
