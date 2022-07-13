@@ -39,3 +39,9 @@ print(a >= b)
 
 #Menor que
 print(a <= b)
+
+#Comparar as duas condições: "e"
+print(a and b)
+
+#Comparar as duas condições: "ou"
+print(a or b)
