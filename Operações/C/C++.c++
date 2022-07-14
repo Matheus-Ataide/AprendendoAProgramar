@@ -1,6 +1,6 @@
 #include <stdio.h> //para utilizar o "printf", comando para imprimir algum valor, utilizaremos essa biblioteca
 
-void main(){
+int main(){
   //Criação de Variáveis
 
   int a = 3;
