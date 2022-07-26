@@ -4,10 +4,10 @@ void main(){
   dynamic a = 3;
   dynamic b = 2; 
 
-/*
-- Para acessar os valores do print é só acessar a saída/terminal no compilador
-- Se você acessar pelo navegador com o html, faça os passos que estarão no parenteses (Botão direito na tela do navegador > inspecionar > console)
-*/
+  /*
+  - Para acessar os valores do print é só acessar a saída/terminal no compilador
+  - Se você acessar pelo navegador com o html, faça os passos que estarão no parenteses (Botão direito na tela do navegador > inspecionar > console)
+  */
     
   
   //Você irá perceber que ao compilar, estará false/true, o programa está informando o resultado dessas análises que estão sendo feitas
