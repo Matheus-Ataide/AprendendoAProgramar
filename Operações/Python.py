@@ -24,24 +24,3 @@ print(a % b)
 
 #Exponenciação | O segundo número será o exponencial
 print(a ** b)
-
-
-#Você irá perceber que ao compilar, estará false/true, o programa está informando o resultado dessas análises que estão sendo pedidas
-
-#Igual que
-print(a == b)
-
-#Diferente que
-print(a != b)
-
-#Maior que
-print(a >= b)
-
-#Menor que
-print(a <= b)
-
-#Comparar as duas condições: "e"
-print(a and b)
-
-#Comparar as duas condições: "ou"
-print(a or b)
