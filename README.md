@@ -7,7 +7,8 @@ Colocaremos tópicos das linguagens e pastas/subpastas que utilizamos no diretó
 
 
 ### Pastas/Subpastas
-#### Esta pasta haverá os símbolos de estruturas de condição, utilizando os símbolos matemáticos como exemplos, mas que pode ser usado como desejar, desse tipo de estrutura
+#### Estruturas de Condição
+- Esta pasta haverá os símbolos de estruturas de condição, utilizando os símbolos matemáticos como exemplos, mas que pode ser usado como desejar, desse tipo de estrutura
 
 
 ### Linguagens
